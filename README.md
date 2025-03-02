@@ -1,6 +1,6 @@
-# VPM Package Listing Template
+# Nines Gesture Effects
 
-Starter for making your own Package Listings, including automation for building and publishing them.
+Drag and drop prefabs for use on Avatars, creats small effects to make your gestures have a bit more flavor. 
 
 Once you're all set up, you'll be able to update the [`source.json`](source.json) file, and generate a listing which works in the VPM for delivering updates for all the listed packages.
 
@@ -35,7 +35,7 @@ The contents of the `Website` directory can be customized to change the appearan
 
 ## Technical Stuff
 
-You are welcome to make your own changes to the automation process to make it fit your needs, and you can create Pull Requests if you have some changes you think we should adopt. Here's some more info on the included automation:
+Designed to be simple, small and quick to make edit and align for any prefab. 
 
 ### Build Listing
 [build-listing.yml](.github/workflows/build-listing.yml)
