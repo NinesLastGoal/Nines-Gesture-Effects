@@ -1,16 +1,16 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Nines-Gesture-Effects",
+    "id":"NinesLastGoal.example-listing",
+    "url":"https://NinesLastGoal.github.io/Nines-Gesture-Effects/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"tjvenne@gmail.com",
+        "name":"Nines",
+        "url":"https://github.com/NinesLastGoal"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"VRCSDK Avatar Prefabs for Effects that can be dropped onto avatars and activate when using gestures",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"https://github.com/NinesLastGoal/Nines-Gesture-Effects",
+        "text":"View on Nines Github Profile"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
