@@ -1,10 +1,10 @@
 {
     "name":"Nines-Gesture-Effects",
-    "id":"NinesLastGoal.example-listing",
-    "url":"https://NinesLastGoal.github.io/Nines-Gesture-Effects/index.json",
+    "id":"NinesLastGoal.Nines-Repository",
+    "url":"https://NinesLastGoal.github.io/Nines-Repository/index.json",
     "author":{
         "email":"tjvenne@gmail.com",
-        "name":"Nines",
+        "name":"Nines Own Goal",
         "url":"https://github.com/NinesLastGoal"
     },
     "description":"VRCSDK Avatar Prefabs for Effects that can be dropped onto avatars and activate when using gestures",
