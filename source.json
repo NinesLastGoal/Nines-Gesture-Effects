@@ -1,7 +1,7 @@
 {
-    "name":"Nines-Gesture-Effects",
-    "id":"NinesLastGoal.Nines-Repository",
-    "url":"https://NinesLastGoal.github.io/Nines-Repository/index.json",
+    "name":"Nines-VPM-Listings",
+    "id":"NinesLastGoal.Nines-VPM-Listings",
+    "url":"https://NinesLastGoal.github.io/Nines-VPM-Listings/index.json",
     "author":{
         "email":"tjvenne@gmail.com",
         "name":"Nines Own Goal",
@@ -9,7 +9,7 @@
     },
     "description":"VRCSDK Avatar Prefabs for Effects that can be dropped onto avatars and activate when using gestures",
     "infoLink":{
-        "url":"https://github.com/NinesLastGoal/Nines-Gesture-Effects",
+        "url":"https://github.com/NinesLastGoal/Nines-VPM-Listings",
         "text":"View on Nines Github Profile"
     },
     "bannerUrl":"banner.png",
@@ -18,10 +18,10 @@
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.vrchat.teststest",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "none",
+                "None"
             ]
         }
     ]
